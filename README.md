@@ -3,7 +3,7 @@ neil_walrus_gettest_0
 
 ## Description
 
-Test GET funcitonality of Walrus
+Test GET functionality of Walrus
 
 ## Procedure
 
