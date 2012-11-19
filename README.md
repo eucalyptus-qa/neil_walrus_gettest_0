@@ -1,3 +1,17 @@
+neil_walrus_gettest_0
+=====================
+
+## Description
+
+Test GET funcitonality of Walrus
+
+## Procedure
+
+1. Get time now
+2. Create a bucket in the US location
+3. Put a object to the bucket
+
+
 # Eucalyptus Testunit Framework
 
 Eucalyptus Testunit Framework is designed to run a list of test scripts written by Eucalyptus developers.
